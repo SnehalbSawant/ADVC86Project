@@ -2,7 +2,7 @@
 {
     background-image:url(backg.jpg);
     background-position:center;
-    background-size:contain;
+    background-size:cover;
 }
 #myCanvas
 {
